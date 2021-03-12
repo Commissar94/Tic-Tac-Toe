@@ -1,0 +1,95 @@
+# Project exclude paths
+/.gradle/
+/Problems/Accordance/out/
+/Problems/Accordance/out/production/classes/
+/Problems/Are the numbers different/out/
+/Problems/Are the numbers different/out/production/classes/
+/Problems/Balance checker/out/
+/Problems/Balance checker/out/production/classes/
+/Problems/Beyond the word/out/
+/Problems/Beyond the word/out/production/classes/
+/Problems/Check the value/out/
+/Problems/Check the value/out/production/classes/
+/Problems/Collatz conjecture/out/
+/Problems/Collatz conjecture/out/production/classes/
+/Problems/Comparing numbers and characters/out/
+/Problems/Comparing numbers and characters/out/production/classes/
+/Problems/Corners/out/
+/Problems/Corners/out/production/classes/
+/Problems/Counting positive numbers/out/
+/Problems/Counting positive numbers/out/production/classes/
+/Problems/Cutting the fraction/out/
+/Problems/Cutting the fraction/out/production/classes/
+/Problems/Date and time formatting/out/
+/Problems/Date and time formatting/out/production/classes/
+/Problems/Desks/out/
+/Problems/Desks/out/production/classes/
+/Problems/Digits or not/out/
+/Problems/Digits or not/out/production/classes/
+/Problems/Division/out/
+/Problems/Division/out/production/classes/
+/Problems/Double characters/out/
+/Problems/Double characters/out/production/classes/
+/Problems/Find the first occurrence of the word  the/out/
+/Problems/Find the first occurrence of the word  the/out/production/classes/
+/Problems/Find the max/out/
+/Problems/Find the max/out/production/classes/
+/Problems/Fizz Buzz/out/
+/Problems/Fizz Buzz/out/production/classes/
+/Problems/Floor-space of the room/out/
+/Problems/Floor-space of the room/out/production/classes/
+/Problems/Four numbers/out/
+/Problems/Four numbers/out/production/classes/
+/Problems/Generating passwords/out/
+/Problems/Generating passwords/out/production/classes/
+/Problems/Getting letters from the Alphabet/out/
+/Problems/Getting letters from the Alphabet/out/production/classes/
+/Problems/Grades/out/
+/Problems/Grades/out/production/classes/
+/Problems/Groundhogs at the party/out/
+/Problems/Groundhogs at the party/out/production/classes/
+/Problems/How many nuts will be left after division/out/
+/Problems/How many nuts will be left after division/out/production/classes/
+/Problems/Job/out/
+/Problems/Job/out/production/classes/
+/Problems/Kotlin arrays/out/
+/Problems/Kotlin arrays/out/production/classes/
+/Problems/Max values of integer types/out/
+/Problems/Max values of integer types/out/production/classes/
+/Problems/Maximum element divisible by 4/out/
+/Problems/Maximum element divisible by 4/out/production/classes/
+/Problems/Number of occurrences/out/
+/Problems/Number of occurrences/out/production/classes/
+/Problems/Positive, Negative or Zero/out/
+/Problems/Positive, Negative or Zero/out/production/classes/
+/Problems/Previous character/out/
+/Problems/Previous character/out/production/classes/
+/Problems/Printing each word in a new line/out/
+/Problems/Printing each word in a new line/out/production/classes/
+/Problems/Queens/out/
+/Problems/Queens/out/production/classes/
+/Problems/Read and print/out/
+/Problems/Read and print/out/production/classes/
+/Problems/Reversed output/out/
+/Problems/Reversed output/out/production/classes/
+/Problems/Rickrolling/out/
+/Problems/Rickrolling/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/Size of parts/out/
+/Problems/Size of parts/out/production/classes/
+/Problems/String processor/out/
+/Problems/String processor/out/production/classes/
+/Problems/The longest sequence/out/
+/Problems/The longest sequence/out/production/classes/
+/Problems/The maximum pairwise product/out/
+/Problems/The maximum pairwise product/out/production/classes/
+/Problems/The sum of digits/out/
+/Problems/The sum of digits/out/production/classes/
+/Problems/The sum of elements/out/
+/Problems/The sum of elements/out/production/classes/
+/Problems/Unique characters/out/
+/Problems/Unique characters/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
